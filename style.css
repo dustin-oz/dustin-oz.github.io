@@ -1,13 +1,13 @@
 .navbar {
     position: fixed;
-    width: 100%;
+    min-width: 100%;
     top: 0;
     left: 0;
     z-index: 100;
 }
 
 .container-fluid {
-    padding: 0px 5% 0px 5%;
+    padding: 0px 5vw 0px 5vw;
 }
 
 .navbar-expand-lg .navbar-collapse {
@@ -73,7 +73,7 @@ section .bg-primary-3 {
     padding-right: 5%;
 }
 .projectContent {
-    padding-top: 35%;
+    padding-top: 40%;
     padding-left: 5%;
     padding-right: 5%;
 }
