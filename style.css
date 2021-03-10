@@ -73,7 +73,7 @@ section .bg-primary-3 {
     padding-right: 5%;
 }
 .projectContent {
-    padding-top: 40%;
+    padding-top: 15%;
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -89,4 +89,12 @@ section .bg-primary-3 {
     border: none;
     width: 100px;
     height: 100px;
+}
+
+.card {
+    color: #000;
+}
+
+.row {
+    margin-top: 10%;
 }
