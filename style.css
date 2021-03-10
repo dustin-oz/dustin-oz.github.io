@@ -1,0 +1,75 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+.container-fluid {
+    padding: 0px 25px 0px 25px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+
+section .bg-primary-3 {
+    background-color: #1d1d1d !important;
+}
+
+.sections {
+    box-sizing: border-box;
+    min-width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.homeSection {
+    background-image: url("/images/3dprinting.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+}
+
+.aboutMeSection {
+    background-image: url("/images/desk2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff; 
+}
+.projectsSection {
+    background-image: url("/images/desk3.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff; 
+}
+/* .contactSection {
+    background-image: url("/images/desk2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff; 
+} */
+
+.content {
+    padding-top: 40%;
+    padding-left: 5%;
+}
+
+
+.myProfile {
+    margin-top: -5%;
+    background-color: transparent;
+    border: none;
+    width: 100px;
+    height: 100px;
+}
