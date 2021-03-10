@@ -7,7 +7,7 @@
 }
 
 .container-fluid {
-    padding: 0px 25px 0px 25px;
+    padding: 0px 5% 0px 5%;
 }
 
 .navbar-expand-lg .navbar-collapse {
@@ -60,12 +60,28 @@ section .bg-primary-3 {
     color: #fff; 
 } */
 
-.content {
-    padding-top: 40%;
+
+.homeContent {
+    padding-top: 35%;
     padding-left: 5%;
     padding-right: 5%;
 }
 
+.aboutContent {
+    padding-top: 35%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.projectContent {
+    padding-top: 35%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.contactContent {
+    padding-top: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
 
 .myProfile {
     margin-top: -5%;
