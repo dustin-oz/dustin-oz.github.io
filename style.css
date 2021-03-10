@@ -60,31 +60,17 @@ section .bg-primary-3 {
     color: #fff; 
 } */
 
-.contentHome {
-    padding: 2% 5% 2% 5%;
-    margin-top: 5%;
-    color: white;
-}
-
-
-
 .content {
     padding-top: 40%;
     padding-left: 5%;
     padding-right: 5%;
 }
 
-.space {
-    padding-top:150px;
-}
+
 .myProfile {
     margin-top: -5%;
     background-color: transparent;
     border: none;
     width: 100px;
     height: 100px;
-}
-
-.nav-item button {
-    color: white;
 }
