@@ -41,27 +41,24 @@ section .bg-primary-3 {
 
 .homeSection {
     background-image: url("/images/3dprinting.jpg");
-    background-color: #cccccc;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     color: #fff;
 }
 
 .aboutMeSection {
     background-image: url("/images/desk2.jpg");
-    background-color: #cccccc;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     color: #fff; 
 }
 .projectsSection {
-    background-image: url("/images/desk3.jpg");
-    background-color: #cccccc;
+    background-image: url("/images/topview-desk.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: contain;
     color: #fff; 
 }
 
@@ -78,12 +75,12 @@ section .bg-primary-3 {
     padding-right: 5%;
 }
 .projectContent {
-    padding-top: 15%;
+    padding-top: 35%;
     padding-left: 5%;
     padding-right: 5%;
 }
 .contactContent {
-    padding-top: 40%;
+    padding-top: 45;
     padding-left: 5%;
     padding-right: 5%;
 }
