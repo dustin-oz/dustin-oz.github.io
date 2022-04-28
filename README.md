@@ -1,3 +1,3 @@
 # Dustin's Portfolio
 
-This website was built using <HTML>, <CSS> and <JAVASCRIPT>
+This website was built using `HTML`, `CSS` and `JAVASCRIPT`
