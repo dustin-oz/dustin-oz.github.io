@@ -20,3 +20,17 @@
 .list-group-item {
   border: none!important;
 }
+
+.list-group-item {
+  color: rgb(80, 80, 80);
+}
+
+.other-tech {
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
+#clients {
+  margin-top: 75px;
+  margin-bottom: 50px;
+}
+
