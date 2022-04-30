@@ -5,9 +5,18 @@
 
 
 #cert-container {
-  width: 50vw;
+  width: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
 
 
+}
+
+.cert_img {
+  margin: 15px;
+}
+.list-group-item {
+  border: none!important;
 }
