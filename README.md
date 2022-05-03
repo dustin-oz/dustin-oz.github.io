@@ -2,4 +2,4 @@
 
 This website was built using `HTML` `CSS` and `JAVASCRIPT`
 
-[Contact:](oz@vetsdesign.com)
+[Send me an email:](mailto:oz@vetsdesign.com)
